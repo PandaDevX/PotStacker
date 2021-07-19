@@ -1,0 +1,7 @@
+size: 16
+
+# source
+# https://helpch.at/docs/1.12.2/org/bukkit/potion/PotionType.html
+WhiteList:
+  - 'MUNDANE'
+  - 'AWKWARD'

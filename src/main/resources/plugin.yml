@@ -1,0 +1,6 @@
+name: PotStacker
+version: ${project.version}
+main: com.redspeaks.potstacker.PotStacker
+commands:
+  potion:
+    description: main command
